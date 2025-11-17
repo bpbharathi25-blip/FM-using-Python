@@ -1,6 +1,6 @@
 # FM-using-Python
 
-Aim
+Aima
 
 
 To implement and analyze frequency modulation (FM) using Python's NumPy and Matplotlib libraries. 
